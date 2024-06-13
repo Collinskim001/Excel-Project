@@ -1,3 +1,4 @@
 # Excel-Project
-This is an dynamic excel dashboard showing accident fatalities in UK.
+This is an excel analysis file for sales volume comparison
+
 
